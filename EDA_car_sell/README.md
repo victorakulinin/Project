@@ -5,8 +5,8 @@ Then I'll take a closer look at the ads, study "the duration of their life", and
 After that, I will move on to the price and study what characteristics and how they can influence it.
 
 # Main Python libraries used:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Statistics
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Statistics
