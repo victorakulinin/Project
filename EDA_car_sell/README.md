@@ -4,4 +4,9 @@ First, I'm going to look at the basic parameters of cars: price, vehicle's age w
 Then I'll take a closer look at the ads, study "the duration of their life", and check the most popular ones.
 After that, I will move on to the price and study what characteristics and how they can influence it.
 
-
+# Main Python libraries used:
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Statistics
