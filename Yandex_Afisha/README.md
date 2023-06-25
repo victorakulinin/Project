@@ -11,3 +11,10 @@ I'm going to study:
 - When they start to buy
 - How much money each customer brings
 - When they pay off
+
+# Main Python libraries used:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Plotly
