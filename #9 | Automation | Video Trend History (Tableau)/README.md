@@ -22,22 +22,24 @@ After talking to the managers and database administrators, you've drawn up brief
 **Dashboard data content**:
   - Trending videos from the past, broken down by day and category
   - Trending videos, broken down by countries
-  - A table of correspondence between categories and countries\
+  - A table of correspondence between categories and countries
+
 **Parameters according to which the data is to be grouped**:
   - Trending date and time
   - Video category
-  - Country\
+  - Country
+
 **The data**:\
 ***Trending history*** — absolute values with a breakdown by day (two graphs: absolute numbers and percentage ratio)\
 ***Events, broken down by countries*** — relative values (% of events)\
 ***The correspondence between the categories and countries*** — absolute values (a table)\
 ***Importance***: all graphs are equally important\
 ***Data sources for the dashboard***: the data engineers promised to create an aggregate table called trending_by_time. Here's its structure:
-`record_id` — primary key\
-`region` — country/geographical region\
-`trending_date` — date and time\
-`category_title` — the video category\
-`videos_count` — the number of videos in the trending section
+  - `record_id` — primary key
+  - `region` — country/geographical region
+  - `trending_date` — date and time
+  - `category_title` — the video category
+  - `videos_count` — the number of videos in the trending section
 
 The table is stored in the `data-analyst-youtube-data.` database, which was created especially for your needs\
 **Data update interval**: once every 24 hours, at midnight UTC
