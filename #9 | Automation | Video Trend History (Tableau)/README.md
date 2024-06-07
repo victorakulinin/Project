@@ -1,10 +1,18 @@
 # Video Trends Dashboard
 
-The archive consists of is following files:
+I work as a video ad analyst at the Sterling & Draper advertising agency. My devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.  
 
-Video_Trend_History_YT.pdf - presentation about dashboard and insight
-Notes on the dashboard.pdf - notes on the dashboard
-trending_by_time.csv - data I worked with
+Each video has a specific category (Entertainment, Music, News & Politics, etc.), region, and trending date. 
+
+A video can be in the trending section for several days in a row.
+
+Every week, the new employees Melanie and Ashok ask you the same questions:
+
+What video categories were trending last week?
+How were they distributed among various regions?
+What categories were especially popular in the United States?
+
+In my sixth week on the job, I decide that it's high time the process were automated. I'm going to make a dashboard for Melanie and Ashok.
 
 Links to the Tableau dashboards:
 
