@@ -1,4 +1,4 @@
-# Video Trends Dashboard
+# Video Trends History Dashboard
 
 I work as a video ad analyst at the Sterling & Draper advertising agency. My devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.  
 
