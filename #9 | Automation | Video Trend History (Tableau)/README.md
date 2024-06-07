@@ -6,7 +6,7 @@ Each video has a specific category (Entertainment, Music, News & Politics, etc.)
 
 A video can be in the trending section for several days in a row.
 
-Every week, the new employees Melanie and Ashok ask you the same questions:
+Every week, the new employees Melanie and Ashok ask me the same questions:
 
 - What video categories were trending last week?
 - How were they distributed among various regions?
