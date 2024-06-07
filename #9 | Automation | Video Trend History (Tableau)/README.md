@@ -44,6 +44,11 @@ After talking to the managers and database administrators, you've drawn up brief
 The table is stored in the `data-analyst-youtube-data.` database, which was created especially for your needs\
 **Data update interval**: once every 24 hours, at midnight UTC
 
+**Questions answered by managers using the dashboard**
+  - Which video categories trended most often?
+  - How were they distributed among regions?
+  - What categories were especially popular in the United States? Were there any differences between the categories popular in the US and those popular elsewhere?
+
 
 Links to the Tableau dashboards:
 
