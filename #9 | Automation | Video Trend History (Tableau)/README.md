@@ -8,9 +8,9 @@ A video can be in the trending section for several days in a row.
 
 Every week, the new employees Melanie and Ashok ask you the same questions:
 
-What video categories were trending last week?
-How were they distributed among various regions?
-What categories were especially popular in the United States?
+- What video categories were trending last week?
+- How were they distributed among various regions?
+- What categories were especially popular in the United States?
 
 In my sixth week on the job, I decide that it's high time the process were automated. I'm going to make a dashboard for Melanie and Ashok.
 
