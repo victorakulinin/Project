@@ -12,4 +12,4 @@ I've been given a database of one of the services competing in this market. It c
 - Find the average number of text reviews among users who rated more than 50 books.
 
 
-![Data diagram](images/final_project_sql.png)
+![Data diagram](https://github.com/victorakulinin/Project/blob/main/11%20%7C%20Final%20Project%20%7C%20SQL%20Project/final_project_sql.png)
