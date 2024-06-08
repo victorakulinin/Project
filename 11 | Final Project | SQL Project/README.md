@@ -10,3 +10,6 @@ I've been given a database of one of the services competing in this market. It c
 - Identify the publisher that has released the greatest number of books with more than 50 pages (this will help you exclude brochures and similar publications from your analysis).
 - Identify the author with the highest average book rating: look only at books with at least 50 ratings.
 - Find the average number of text reviews among users who rated more than 50 books.
+
+
+!final_project_sql.png
