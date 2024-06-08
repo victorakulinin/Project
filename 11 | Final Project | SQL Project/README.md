@@ -11,5 +11,5 @@ I've been given a database of one of the services competing in this market. It c
 - Identify the author with the highest average book rating: look only at books with at least 50 ratings.
 - Find the average number of text reviews among users who rated more than 50 books.
 
-
+## Data diagram
 ![Data diagram](https://github.com/victorakulinin/Project/blob/main/11%20%7C%20Final%20Project%20%7C%20SQL%20Project/final_project_sql.png)
