@@ -1,8 +1,8 @@
-#Final A/B Testing Project
+# Final A/B Testing Project
 
 I've received an analytical task from an international online store. My predecessor failed to complete it: they launched an A/B test and then quit (to start a watermelon farm in Brazil). They left only the technical specifications and the test results. 
 
-##Technical description
+## Technical description
 - **Test name**: `recommender_system_test`
 - **Groups**: А (control), B (new payment funnel)
 - **Launch date**: 2020-12-07
